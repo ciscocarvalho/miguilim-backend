@@ -270,6 +270,8 @@
                 <!-- <ref bean="searchFilterHasGeospatialMetadata"/> -->
                 <ref bean="searchFilterEntityType"/>
                 <ref bean="searchFilterAccessStatus" />
+                <ref bean="searchFilterSituation" />
+                <ref bean="searchFilterCnpq" />
             </list>
         </property>
         <!-- Set TagCloud configuration per discovery configuration -->
@@ -293,6 +295,8 @@
                 <ref bean="searchFilterIsPublicationOfJournalIssueRelation"/>
                 <ref bean="searchFilterIsJournalOfPublicationRelation"/>
                 <ref bean="searchFilterGeospatialPoint"/>
+                <ref bean="searchFilterSituation" />
+                <ref bean="searchFilterCnpq" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -304,6 +308,7 @@
                         <ref bean="sortTitle" />
                         <ref bean="sortDateIssued" />
                         <ref bean="sortDateAccessioned"/>
+                        <ref bean="sortLastModified" />
                     </list>
                 </property>
             </bean>
@@ -889,6 +894,8 @@
                 <ref bean="searchFilterObjectNamedType" />
                 <ref bean="searchFilterType" />
                 <ref bean="searchFilterIssued" />
+                <ref bean="searchFilterSituation" />
+                <ref bean="searchFilterCnpq" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -965,6 +972,8 @@
                 <ref bean="searchFilterObjectNamedType" />
                 <ref bean="searchFilterType" />
                 <ref bean="searchFilterIssued" />
+                <ref bean="searchFilterSituation" />
+                <ref bean="searchFilterCnpq" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -1042,6 +1051,8 @@
                 <ref bean="searchFilterType" />
                 <ref bean="searchFilterIssued" />
                 <ref bean="searchFilterEntityType" />
+                <ref bean="searchFilterSituation" />
+                <ref bean="searchFilterCnpq" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -1111,6 +1122,8 @@
                 <ref bean="searchFilterType" />
                 <ref bean="searchFilterIssued" />
                 <ref bean="searchFilterSubmitter" />
+                <ref bean="searchFilterSituation" />
+                <ref bean="searchFilterCnpq" />
             </list>
         </property>
         <!--The search filters which can be used on the discovery search page -->
@@ -1120,6 +1133,8 @@
                 <ref bean="searchFilterType" />
                 <ref bean="searchFilterIssued" />
                 <ref bean="searchFilterSubmitter" />
+                <ref bean="searchFilterSituation" />
+                <ref bean="searchFilterCnpq" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -1187,6 +1202,8 @@
                 <ref bean="searchFilterType" />
                 <ref bean="searchFilterIssued" />
                 <ref bean="searchFilterSubmitter" />
+                <ref bean="searchFilterSituation" />
+                <ref bean="searchFilterCnpq" />
             </list>
         </property>
         <!--The search filters which can be used on the discovery search page -->
@@ -1196,6 +1213,8 @@
                 <ref bean="searchFilterType" />
                 <ref bean="searchFilterIssued" />
                 <ref bean="searchFilterSubmitter" />
+                <ref bean="searchFilterSituation" />
+                <ref bean="searchFilterCnpq" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -1261,6 +1280,8 @@
                 <ref bean="searchFilterIssued" />
                 <ref bean="searchFilterSubmitter" />
                 <ref bean="searchFilterSupervision" />
+                <ref bean="searchFilterSituation" />
+                <ref bean="searchFilterCnpq" />
             </list>
         </property>
         <!--The search filters which can be used on the discovery search page -->
@@ -1271,6 +1292,8 @@
                 <ref bean="searchFilterIssued" />
                 <ref bean="searchFilterSubmitter" />
                 <ref bean="searchFilterSupervision" />
+                <ref bean="searchFilterSituation" />
+                <ref bean="searchFilterCnpq" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -3310,6 +3333,31 @@
                 <value>dc.type</value>
             </list>
         </property>
+    </bean>
+
+    <bean id="searchFilterSituation" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="situation" />
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.situation</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterCnpq" class="org.dspace.discovery.configuration.HierarchicalSidebarFacetConfiguration">
+        <property name="indexFieldName" value="cnpq" />
+        <property name="metadataFields">
+            <list>
+                <value>dc.subject.cnpq</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+        <property name="splitter" value="::"/>
     </bean>
 
     <bean id="searchFilterAccessStatus" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
