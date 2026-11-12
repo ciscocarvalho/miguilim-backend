@@ -272,6 +272,77 @@
                 <ref bean="searchFilterAccessStatus" />
                 <ref bean="searchFilterSituation" />
                 <ref bean="searchFilterCnpq" />
+                <ref bean="searchFilterEndyear" />
+                <ref bean="searchFilterStartyear" />
+                <ref bean="searchFilterQualisArea" />
+                <ref bean="searchFilterQualisArea2021_2024" />
+                <ref bean="searchFilterAbecBrasil" />
+                <ref bean="searchFilterCity" />
+                <ref bean="searchFilterQualisClassification" />
+                <ref bean="searchFilterQualisClassification2021_2024" />
+                <ref bean="searchFilterCodeofethics" />
+                <ref bean="searchFilterCep" />
+                <ref bean="searchFilterUpdate" />
+                <ref bean="searchFilterAbstract" />
+                <ref bean="searchFilterPeerreViewDocuments" />
+                <ref bean="searchFilterEmail" />
+                <ref bean="searchFilterState" />
+                <ref bean="searchFilterDigitalPreservation" />
+                <ref bean="searchFilterResearchData" />
+                <ref bean="searchFilterPeerreviewExternality" />
+                <ref bean="searchFilterReviewerStypeOfPublication" />
+                <ref bean="searchFilterIdentifierEditor" />
+                <ref bean="searchFilterPersistentIdentifier" />
+                <ref bean="searchFilterLanguage" />
+                <ref bean="searchFilterPublisherName" />
+                <ref bean="searchFilterIssn" />
+                <ref bean="searchFilterIssnl" />
+                <ref bean="searchFilterCreativecommons" />
+                <ref bean="searchFilterEditorialBoardMonthofPublication" />
+                <ref bean="searchFilterMonthofpublication" />
+                <ref bean="searchFilterPeerreview" />
+                <ref bean="searchFilterModalityOfPublication" />
+                <ref bean="searchpublisherlegalnature" />
+                <ref bean="searchFilterSubordinate" />
+                <ref bean="searchFilterTitleOther" />
+                <ref bean="searchFilterReferenceGuidelines" />
+                <ref bean="searchFilterKeywords" />
+                <ref bean="searchFilterEditorialBoardPeriodicity" />
+                <ref bean="searchFilterReviewersPeriodicityOfPublication" />
+                <ref bean="searchFilterPeriodicity" />
+                <ref bean="searchFilterEmbargedTime" />
+                <ref bean="searchFilterAuthorPostPrint" />
+                <ref bean="searchFilterJournalPostPrint" />
+                <ref bean="searchFilterPrePrint" />
+                <ref bean="searchFilterPrePrintSubmission" />
+                <ref bean="searchFilterPlagiarismDetection" />
+                <ref bean="searchFilterThermometer" />
+                <ref bean="searchFilterJournalsPortalUri" />
+                <ref bean="searchFilterTime" />
+                <ref bean="searchFilterInteroperabilityProtocol" />
+                <ref bean="searchFilterReviewerspublication" />
+                <ref bean="searchdescriptionsocialnetworks" />
+                <ref bean="searchFilterRegion" />
+                <ref bean="searchFilterPublishinGresponsable" />
+                <ref bean="searchFilterOasisbr" />
+                <ref bean="searchFilterOpenAccessSeal" />
+                <ref bean="searchFilterSealColor" />
+                <ref bean="searchFilterCienciaAberta" />
+                <ref bean="searchFilterDiamante" />
+                <ref bean="searchFilterInformationServices" />
+                <ref bean="searchFilterSoftware" />
+                <ref bean="searchFilterUpdateStatus" />
+                <ref bean="searchFilterApc" />
+                <ref bean="searchFilterSubmissionFees" />
+                <ref bean="searchFilterPublicationFees" />
+                <ref bean="searchFilterPhone" />
+                <ref bean="searchFilterTimePublication" />
+                <ref bean="searchFilterAccess" />
+                <ref bean="searchFilterTitleAbbreviated" />
+                <ref bean="searchFilterTitlePrevious" />
+                <ref bean="searchFilterTitleLater" />
+                <ref bean="searchFilterTitleProper" />
+                <ref bean="searchFilterUrl" />
             </list>
         </property>
         <!-- Set TagCloud configuration per discovery configuration -->
@@ -297,6 +368,77 @@
                 <ref bean="searchFilterGeospatialPoint"/>
                 <ref bean="searchFilterSituation" />
                 <ref bean="searchFilterCnpq" />
+                <ref bean="searchFilterEndyear" />
+                <ref bean="searchFilterStartyear" />
+                <ref bean="searchFilterQualisArea" />
+                <ref bean="searchFilterQualisArea2021_2024" />
+                <ref bean="searchFilterAbecBrasil" />
+                <ref bean="searchFilterCity" />
+                <ref bean="searchFilterQualisClassification" />
+                <ref bean="searchFilterQualisClassification2021_2024" />
+                <ref bean="searchFilterCodeofethics" />
+                <ref bean="searchFilterCep" />
+                <ref bean="searchFilterUpdate" />
+                <ref bean="searchFilterAbstract" />
+                <ref bean="searchFilterPeerreViewDocuments" />
+                <ref bean="searchFilterEmail" />
+                <ref bean="searchFilterState" />
+                <ref bean="searchFilterDigitalPreservation" />
+                <ref bean="searchFilterResearchData" />
+                <ref bean="searchFilterPeerreviewExternality" />
+                <ref bean="searchFilterReviewerStypeOfPublication" />
+                <ref bean="searchFilterIdentifierEditor" />
+                <ref bean="searchFilterPersistentIdentifier" />
+                <ref bean="searchFilterLanguage" />
+                <ref bean="searchFilterPublisherName" />
+                <ref bean="searchFilterIssn" />
+                <ref bean="searchFilterIssnl" />
+                <ref bean="searchFilterCreativecommons" />
+                <ref bean="searchFilterEditorialBoardMonthofPublication" />
+                <ref bean="searchFilterMonthofpublication" />
+                <ref bean="searchFilterPeerreview" />
+                <ref bean="searchFilterModalityOfPublication" />
+                <ref bean="searchpublisherlegalnature" />
+                <ref bean="searchFilterSubordinate" />
+                <ref bean="searchFilterTitleOther" />
+                <ref bean="searchFilterReferenceGuidelines" />
+                <ref bean="searchFilterKeywords" />
+                <ref bean="searchFilterEditorialBoardPeriodicity" />
+                <ref bean="searchFilterReviewersPeriodicityOfPublication" />
+                <ref bean="searchFilterPeriodicity" />
+                <ref bean="searchFilterEmbargedTime" />
+                <ref bean="searchFilterAuthorPostPrint" />
+                <ref bean="searchFilterJournalPostPrint" />
+                <ref bean="searchFilterPrePrint" />
+                <ref bean="searchFilterPrePrintSubmission" />
+                <ref bean="searchFilterPlagiarismDetection" />
+                <ref bean="searchFilterThermometer" />
+                <ref bean="searchFilterJournalsPortalUri" />
+                <ref bean="searchFilterTime" />
+                <ref bean="searchFilterInteroperabilityProtocol" />
+                <ref bean="searchFilterReviewerspublication" />
+                <ref bean="searchdescriptionsocialnetworks" />
+                <ref bean="searchFilterRegion" />
+                <ref bean="searchFilterPublishinGresponsable" />
+                <ref bean="searchFilterOasisbr" />
+                <ref bean="searchFilterOpenAccessSeal" />
+                <ref bean="searchFilterSealColor" />
+                <ref bean="searchFilterCienciaAberta" />
+                <ref bean="searchFilterDiamante" />
+                <ref bean="searchFilterInformationServices" />
+                <ref bean="searchFilterSoftware" />
+                <ref bean="searchFilterUpdateStatus" />
+                <ref bean="searchFilterApc" />
+                <ref bean="searchFilterSubmissionFees" />
+                <ref bean="searchFilterPublicationFees" />
+                <ref bean="searchFilterPhone" />
+                <ref bean="searchFilterTimePublication" />
+                <ref bean="searchFilterAccess" />
+                <ref bean="searchFilterTitleAbbreviated" />
+                <ref bean="searchFilterTitlePrevious" />
+                <ref bean="searchFilterTitleLater" />
+                <ref bean="searchFilterTitleProper" />
+                <ref bean="searchFilterUrl" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -896,6 +1038,77 @@
                 <ref bean="searchFilterIssued" />
                 <ref bean="searchFilterSituation" />
                 <ref bean="searchFilterCnpq" />
+                <ref bean="searchFilterEndyear" />
+                <ref bean="searchFilterStartyear" />
+                <ref bean="searchFilterQualisArea" />
+                <ref bean="searchFilterQualisArea2021_2024" />
+                <ref bean="searchFilterAbecBrasil" />
+                <ref bean="searchFilterCity" />
+                <ref bean="searchFilterQualisClassification" />
+                <ref bean="searchFilterQualisClassification2021_2024" />
+                <ref bean="searchFilterCodeofethics" />
+                <ref bean="searchFilterCep" />
+                <ref bean="searchFilterUpdate" />
+                <ref bean="searchFilterAbstract" />
+                <ref bean="searchFilterPeerreViewDocuments" />
+                <ref bean="searchFilterEmail" />
+                <ref bean="searchFilterState" />
+                <ref bean="searchFilterDigitalPreservation" />
+                <ref bean="searchFilterResearchData" />
+                <ref bean="searchFilterPeerreviewExternality" />
+                <ref bean="searchFilterReviewerStypeOfPublication" />
+                <ref bean="searchFilterIdentifierEditor" />
+                <ref bean="searchFilterPersistentIdentifier" />
+                <ref bean="searchFilterLanguage" />
+                <ref bean="searchFilterPublisherName" />
+                <ref bean="searchFilterIssn" />
+                <ref bean="searchFilterIssnl" />
+                <ref bean="searchFilterCreativecommons" />
+                <ref bean="searchFilterEditorialBoardMonthofPublication" />
+                <ref bean="searchFilterMonthofpublication" />
+                <ref bean="searchFilterPeerreview" />
+                <ref bean="searchFilterModalityOfPublication" />
+                <ref bean="searchpublisherlegalnature" />
+                <ref bean="searchFilterSubordinate" />
+                <ref bean="searchFilterTitleOther" />
+                <ref bean="searchFilterReferenceGuidelines" />
+                <ref bean="searchFilterKeywords" />
+                <ref bean="searchFilterEditorialBoardPeriodicity" />
+                <ref bean="searchFilterReviewersPeriodicityOfPublication" />
+                <ref bean="searchFilterPeriodicity" />
+                <ref bean="searchFilterEmbargedTime" />
+                <ref bean="searchFilterAuthorPostPrint" />
+                <ref bean="searchFilterJournalPostPrint" />
+                <ref bean="searchFilterPrePrint" />
+                <ref bean="searchFilterPrePrintSubmission" />
+                <ref bean="searchFilterPlagiarismDetection" />
+                <ref bean="searchFilterThermometer" />
+                <ref bean="searchFilterJournalsPortalUri" />
+                <ref bean="searchFilterTime" />
+                <ref bean="searchFilterInteroperabilityProtocol" />
+                <ref bean="searchFilterReviewerspublication" />
+                <ref bean="searchdescriptionsocialnetworks" />
+                <ref bean="searchFilterRegion" />
+                <ref bean="searchFilterPublishinGresponsable" />
+                <ref bean="searchFilterOasisbr" />
+                <ref bean="searchFilterOpenAccessSeal" />
+                <ref bean="searchFilterSealColor" />
+                <ref bean="searchFilterCienciaAberta" />
+                <ref bean="searchFilterDiamante" />
+                <ref bean="searchFilterInformationServices" />
+                <ref bean="searchFilterSoftware" />
+                <ref bean="searchFilterUpdateStatus" />
+                <ref bean="searchFilterApc" />
+                <ref bean="searchFilterSubmissionFees" />
+                <ref bean="searchFilterPublicationFees" />
+                <ref bean="searchFilterPhone" />
+                <ref bean="searchFilterTimePublication" />
+                <ref bean="searchFilterAccess" />
+                <ref bean="searchFilterTitleAbbreviated" />
+                <ref bean="searchFilterTitlePrevious" />
+                <ref bean="searchFilterTitleLater" />
+                <ref bean="searchFilterTitleProper" />
+                <ref bean="searchFilterUrl" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -974,6 +1187,77 @@
                 <ref bean="searchFilterIssued" />
                 <ref bean="searchFilterSituation" />
                 <ref bean="searchFilterCnpq" />
+                <ref bean="searchFilterEndyear" />
+                <ref bean="searchFilterStartyear" />
+                <ref bean="searchFilterQualisArea" />
+                <ref bean="searchFilterQualisArea2021_2024" />
+                <ref bean="searchFilterAbecBrasil" />
+                <ref bean="searchFilterCity" />
+                <ref bean="searchFilterQualisClassification" />
+                <ref bean="searchFilterQualisClassification2021_2024" />
+                <ref bean="searchFilterCodeofethics" />
+                <ref bean="searchFilterCep" />
+                <ref bean="searchFilterUpdate" />
+                <ref bean="searchFilterAbstract" />
+                <ref bean="searchFilterPeerreViewDocuments" />
+                <ref bean="searchFilterEmail" />
+                <ref bean="searchFilterState" />
+                <ref bean="searchFilterDigitalPreservation" />
+                <ref bean="searchFilterResearchData" />
+                <ref bean="searchFilterPeerreviewExternality" />
+                <ref bean="searchFilterReviewerStypeOfPublication" />
+                <ref bean="searchFilterIdentifierEditor" />
+                <ref bean="searchFilterPersistentIdentifier" />
+                <ref bean="searchFilterLanguage" />
+                <ref bean="searchFilterPublisherName" />
+                <ref bean="searchFilterIssn" />
+                <ref bean="searchFilterIssnl" />
+                <ref bean="searchFilterCreativecommons" />
+                <ref bean="searchFilterEditorialBoardMonthofPublication" />
+                <ref bean="searchFilterMonthofpublication" />
+                <ref bean="searchFilterPeerreview" />
+                <ref bean="searchFilterModalityOfPublication" />
+                <ref bean="searchpublisherlegalnature" />
+                <ref bean="searchFilterSubordinate" />
+                <ref bean="searchFilterTitleOther" />
+                <ref bean="searchFilterReferenceGuidelines" />
+                <ref bean="searchFilterKeywords" />
+                <ref bean="searchFilterEditorialBoardPeriodicity" />
+                <ref bean="searchFilterReviewersPeriodicityOfPublication" />
+                <ref bean="searchFilterPeriodicity" />
+                <ref bean="searchFilterEmbargedTime" />
+                <ref bean="searchFilterAuthorPostPrint" />
+                <ref bean="searchFilterJournalPostPrint" />
+                <ref bean="searchFilterPrePrint" />
+                <ref bean="searchFilterPrePrintSubmission" />
+                <ref bean="searchFilterPlagiarismDetection" />
+                <ref bean="searchFilterThermometer" />
+                <ref bean="searchFilterJournalsPortalUri" />
+                <ref bean="searchFilterTime" />
+                <ref bean="searchFilterInteroperabilityProtocol" />
+                <ref bean="searchFilterReviewerspublication" />
+                <ref bean="searchdescriptionsocialnetworks" />
+                <ref bean="searchFilterRegion" />
+                <ref bean="searchFilterPublishinGresponsable" />
+                <ref bean="searchFilterOasisbr" />
+                <ref bean="searchFilterOpenAccessSeal" />
+                <ref bean="searchFilterSealColor" />
+                <ref bean="searchFilterCienciaAberta" />
+                <ref bean="searchFilterDiamante" />
+                <ref bean="searchFilterInformationServices" />
+                <ref bean="searchFilterSoftware" />
+                <ref bean="searchFilterUpdateStatus" />
+                <ref bean="searchFilterApc" />
+                <ref bean="searchFilterSubmissionFees" />
+                <ref bean="searchFilterPublicationFees" />
+                <ref bean="searchFilterPhone" />
+                <ref bean="searchFilterTimePublication" />
+                <ref bean="searchFilterAccess" />
+                <ref bean="searchFilterTitleAbbreviated" />
+                <ref bean="searchFilterTitlePrevious" />
+                <ref bean="searchFilterTitleLater" />
+                <ref bean="searchFilterTitleProper" />
+                <ref bean="searchFilterUrl" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -1053,6 +1337,77 @@
                 <ref bean="searchFilterEntityType" />
                 <ref bean="searchFilterSituation" />
                 <ref bean="searchFilterCnpq" />
+                <ref bean="searchFilterEndyear" />
+                <ref bean="searchFilterStartyear" />
+                <ref bean="searchFilterQualisArea" />
+                <ref bean="searchFilterQualisArea2021_2024" />
+                <ref bean="searchFilterAbecBrasil" />
+                <ref bean="searchFilterCity" />
+                <ref bean="searchFilterQualisClassification" />
+                <ref bean="searchFilterQualisClassification2021_2024" />
+                <ref bean="searchFilterCodeofethics" />
+                <ref bean="searchFilterCep" />
+                <ref bean="searchFilterUpdate" />
+                <ref bean="searchFilterAbstract" />
+                <ref bean="searchFilterPeerreViewDocuments" />
+                <ref bean="searchFilterEmail" />
+                <ref bean="searchFilterState" />
+                <ref bean="searchFilterDigitalPreservation" />
+                <ref bean="searchFilterResearchData" />
+                <ref bean="searchFilterPeerreviewExternality" />
+                <ref bean="searchFilterReviewerStypeOfPublication" />
+                <ref bean="searchFilterIdentifierEditor" />
+                <ref bean="searchFilterPersistentIdentifier" />
+                <ref bean="searchFilterLanguage" />
+                <ref bean="searchFilterPublisherName" />
+                <ref bean="searchFilterIssn" />
+                <ref bean="searchFilterIssnl" />
+                <ref bean="searchFilterCreativecommons" />
+                <ref bean="searchFilterEditorialBoardMonthofPublication" />
+                <ref bean="searchFilterMonthofpublication" />
+                <ref bean="searchFilterPeerreview" />
+                <ref bean="searchFilterModalityOfPublication" />
+                <ref bean="searchpublisherlegalnature" />
+                <ref bean="searchFilterSubordinate" />
+                <ref bean="searchFilterTitleOther" />
+                <ref bean="searchFilterReferenceGuidelines" />
+                <ref bean="searchFilterKeywords" />
+                <ref bean="searchFilterEditorialBoardPeriodicity" />
+                <ref bean="searchFilterReviewersPeriodicityOfPublication" />
+                <ref bean="searchFilterPeriodicity" />
+                <ref bean="searchFilterEmbargedTime" />
+                <ref bean="searchFilterAuthorPostPrint" />
+                <ref bean="searchFilterJournalPostPrint" />
+                <ref bean="searchFilterPrePrint" />
+                <ref bean="searchFilterPrePrintSubmission" />
+                <ref bean="searchFilterPlagiarismDetection" />
+                <ref bean="searchFilterThermometer" />
+                <ref bean="searchFilterJournalsPortalUri" />
+                <ref bean="searchFilterTime" />
+                <ref bean="searchFilterInteroperabilityProtocol" />
+                <ref bean="searchFilterReviewerspublication" />
+                <ref bean="searchdescriptionsocialnetworks" />
+                <ref bean="searchFilterRegion" />
+                <ref bean="searchFilterPublishinGresponsable" />
+                <ref bean="searchFilterOasisbr" />
+                <ref bean="searchFilterOpenAccessSeal" />
+                <ref bean="searchFilterSealColor" />
+                <ref bean="searchFilterCienciaAberta" />
+                <ref bean="searchFilterDiamante" />
+                <ref bean="searchFilterInformationServices" />
+                <ref bean="searchFilterSoftware" />
+                <ref bean="searchFilterUpdateStatus" />
+                <ref bean="searchFilterApc" />
+                <ref bean="searchFilterSubmissionFees" />
+                <ref bean="searchFilterPublicationFees" />
+                <ref bean="searchFilterPhone" />
+                <ref bean="searchFilterTimePublication" />
+                <ref bean="searchFilterAccess" />
+                <ref bean="searchFilterTitleAbbreviated" />
+                <ref bean="searchFilterTitlePrevious" />
+                <ref bean="searchFilterTitleLater" />
+                <ref bean="searchFilterTitleProper" />
+                <ref bean="searchFilterUrl" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -1124,6 +1479,77 @@
                 <ref bean="searchFilterSubmitter" />
                 <ref bean="searchFilterSituation" />
                 <ref bean="searchFilterCnpq" />
+                <ref bean="searchFilterEndyear" />
+                <ref bean="searchFilterStartyear" />
+                <ref bean="searchFilterQualisArea" />
+                <ref bean="searchFilterQualisArea2021_2024" />
+                <ref bean="searchFilterAbecBrasil" />
+                <ref bean="searchFilterCity" />
+                <ref bean="searchFilterQualisClassification" />
+                <ref bean="searchFilterQualisClassification2021_2024" />
+                <ref bean="searchFilterCodeofethics" />
+                <ref bean="searchFilterCep" />
+                <ref bean="searchFilterUpdate" />
+                <ref bean="searchFilterAbstract" />
+                <ref bean="searchFilterPeerreViewDocuments" />
+                <ref bean="searchFilterEmail" />
+                <ref bean="searchFilterState" />
+                <ref bean="searchFilterDigitalPreservation" />
+                <ref bean="searchFilterResearchData" />
+                <ref bean="searchFilterPeerreviewExternality" />
+                <ref bean="searchFilterReviewerStypeOfPublication" />
+                <ref bean="searchFilterIdentifierEditor" />
+                <ref bean="searchFilterPersistentIdentifier" />
+                <ref bean="searchFilterLanguage" />
+                <ref bean="searchFilterPublisherName" />
+                <ref bean="searchFilterIssn" />
+                <ref bean="searchFilterIssnl" />
+                <ref bean="searchFilterCreativecommons" />
+                <ref bean="searchFilterEditorialBoardMonthofPublication" />
+                <ref bean="searchFilterMonthofpublication" />
+                <ref bean="searchFilterPeerreview" />
+                <ref bean="searchFilterModalityOfPublication" />
+                <ref bean="searchpublisherlegalnature" />
+                <ref bean="searchFilterSubordinate" />
+                <ref bean="searchFilterTitleOther" />
+                <ref bean="searchFilterReferenceGuidelines" />
+                <ref bean="searchFilterKeywords" />
+                <ref bean="searchFilterEditorialBoardPeriodicity" />
+                <ref bean="searchFilterReviewersPeriodicityOfPublication" />
+                <ref bean="searchFilterPeriodicity" />
+                <ref bean="searchFilterEmbargedTime" />
+                <ref bean="searchFilterAuthorPostPrint" />
+                <ref bean="searchFilterJournalPostPrint" />
+                <ref bean="searchFilterPrePrint" />
+                <ref bean="searchFilterPrePrintSubmission" />
+                <ref bean="searchFilterPlagiarismDetection" />
+                <ref bean="searchFilterThermometer" />
+                <ref bean="searchFilterJournalsPortalUri" />
+                <ref bean="searchFilterTime" />
+                <ref bean="searchFilterInteroperabilityProtocol" />
+                <ref bean="searchFilterReviewerspublication" />
+                <ref bean="searchdescriptionsocialnetworks" />
+                <ref bean="searchFilterRegion" />
+                <ref bean="searchFilterPublishinGresponsable" />
+                <ref bean="searchFilterOasisbr" />
+                <ref bean="searchFilterOpenAccessSeal" />
+                <ref bean="searchFilterSealColor" />
+                <ref bean="searchFilterCienciaAberta" />
+                <ref bean="searchFilterDiamante" />
+                <ref bean="searchFilterInformationServices" />
+                <ref bean="searchFilterSoftware" />
+                <ref bean="searchFilterUpdateStatus" />
+                <ref bean="searchFilterApc" />
+                <ref bean="searchFilterSubmissionFees" />
+                <ref bean="searchFilterPublicationFees" />
+                <ref bean="searchFilterPhone" />
+                <ref bean="searchFilterTimePublication" />
+                <ref bean="searchFilterAccess" />
+                <ref bean="searchFilterTitleAbbreviated" />
+                <ref bean="searchFilterTitlePrevious" />
+                <ref bean="searchFilterTitleLater" />
+                <ref bean="searchFilterTitleProper" />
+                <ref bean="searchFilterUrl" />
             </list>
         </property>
         <!--The search filters which can be used on the discovery search page -->
@@ -1135,6 +1561,77 @@
                 <ref bean="searchFilterSubmitter" />
                 <ref bean="searchFilterSituation" />
                 <ref bean="searchFilterCnpq" />
+                <ref bean="searchFilterEndyear" />
+                <ref bean="searchFilterStartyear" />
+                <ref bean="searchFilterQualisArea" />
+                <ref bean="searchFilterQualisArea2021_2024" />
+                <ref bean="searchFilterAbecBrasil" />
+                <ref bean="searchFilterCity" />
+                <ref bean="searchFilterQualisClassification" />
+                <ref bean="searchFilterQualisClassification2021_2024" />
+                <ref bean="searchFilterCodeofethics" />
+                <ref bean="searchFilterCep" />
+                <ref bean="searchFilterUpdate" />
+                <ref bean="searchFilterAbstract" />
+                <ref bean="searchFilterPeerreViewDocuments" />
+                <ref bean="searchFilterEmail" />
+                <ref bean="searchFilterState" />
+                <ref bean="searchFilterDigitalPreservation" />
+                <ref bean="searchFilterResearchData" />
+                <ref bean="searchFilterPeerreviewExternality" />
+                <ref bean="searchFilterReviewerStypeOfPublication" />
+                <ref bean="searchFilterIdentifierEditor" />
+                <ref bean="searchFilterPersistentIdentifier" />
+                <ref bean="searchFilterLanguage" />
+                <ref bean="searchFilterPublisherName" />
+                <ref bean="searchFilterIssn" />
+                <ref bean="searchFilterIssnl" />
+                <ref bean="searchFilterCreativecommons" />
+                <ref bean="searchFilterEditorialBoardMonthofPublication" />
+                <ref bean="searchFilterMonthofpublication" />
+                <ref bean="searchFilterPeerreview" />
+                <ref bean="searchFilterModalityOfPublication" />
+                <ref bean="searchpublisherlegalnature" />
+                <ref bean="searchFilterSubordinate" />
+                <ref bean="searchFilterTitleOther" />
+                <ref bean="searchFilterReferenceGuidelines" />
+                <ref bean="searchFilterKeywords" />
+                <ref bean="searchFilterEditorialBoardPeriodicity" />
+                <ref bean="searchFilterReviewersPeriodicityOfPublication" />
+                <ref bean="searchFilterPeriodicity" />
+                <ref bean="searchFilterEmbargedTime" />
+                <ref bean="searchFilterAuthorPostPrint" />
+                <ref bean="searchFilterJournalPostPrint" />
+                <ref bean="searchFilterPrePrint" />
+                <ref bean="searchFilterPrePrintSubmission" />
+                <ref bean="searchFilterPlagiarismDetection" />
+                <ref bean="searchFilterThermometer" />
+                <ref bean="searchFilterJournalsPortalUri" />
+                <ref bean="searchFilterTime" />
+                <ref bean="searchFilterInteroperabilityProtocol" />
+                <ref bean="searchFilterReviewerspublication" />
+                <ref bean="searchdescriptionsocialnetworks" />
+                <ref bean="searchFilterRegion" />
+                <ref bean="searchFilterPublishinGresponsable" />
+                <ref bean="searchFilterOasisbr" />
+                <ref bean="searchFilterOpenAccessSeal" />
+                <ref bean="searchFilterSealColor" />
+                <ref bean="searchFilterCienciaAberta" />
+                <ref bean="searchFilterDiamante" />
+                <ref bean="searchFilterInformationServices" />
+                <ref bean="searchFilterSoftware" />
+                <ref bean="searchFilterUpdateStatus" />
+                <ref bean="searchFilterApc" />
+                <ref bean="searchFilterSubmissionFees" />
+                <ref bean="searchFilterPublicationFees" />
+                <ref bean="searchFilterPhone" />
+                <ref bean="searchFilterTimePublication" />
+                <ref bean="searchFilterAccess" />
+                <ref bean="searchFilterTitleAbbreviated" />
+                <ref bean="searchFilterTitlePrevious" />
+                <ref bean="searchFilterTitleLater" />
+                <ref bean="searchFilterTitleProper" />
+                <ref bean="searchFilterUrl" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -1204,6 +1701,77 @@
                 <ref bean="searchFilterSubmitter" />
                 <ref bean="searchFilterSituation" />
                 <ref bean="searchFilterCnpq" />
+                <ref bean="searchFilterEndyear" />
+                <ref bean="searchFilterStartyear" />
+                <ref bean="searchFilterQualisArea" />
+                <ref bean="searchFilterQualisArea2021_2024" />
+                <ref bean="searchFilterAbecBrasil" />
+                <ref bean="searchFilterCity" />
+                <ref bean="searchFilterQualisClassification" />
+                <ref bean="searchFilterQualisClassification2021_2024" />
+                <ref bean="searchFilterCodeofethics" />
+                <ref bean="searchFilterCep" />
+                <ref bean="searchFilterUpdate" />
+                <ref bean="searchFilterAbstract" />
+                <ref bean="searchFilterPeerreViewDocuments" />
+                <ref bean="searchFilterEmail" />
+                <ref bean="searchFilterState" />
+                <ref bean="searchFilterDigitalPreservation" />
+                <ref bean="searchFilterResearchData" />
+                <ref bean="searchFilterPeerreviewExternality" />
+                <ref bean="searchFilterReviewerStypeOfPublication" />
+                <ref bean="searchFilterIdentifierEditor" />
+                <ref bean="searchFilterPersistentIdentifier" />
+                <ref bean="searchFilterLanguage" />
+                <ref bean="searchFilterPublisherName" />
+                <ref bean="searchFilterIssn" />
+                <ref bean="searchFilterIssnl" />
+                <ref bean="searchFilterCreativecommons" />
+                <ref bean="searchFilterEditorialBoardMonthofPublication" />
+                <ref bean="searchFilterMonthofpublication" />
+                <ref bean="searchFilterPeerreview" />
+                <ref bean="searchFilterModalityOfPublication" />
+                <ref bean="searchpublisherlegalnature" />
+                <ref bean="searchFilterSubordinate" />
+                <ref bean="searchFilterTitleOther" />
+                <ref bean="searchFilterReferenceGuidelines" />
+                <ref bean="searchFilterKeywords" />
+                <ref bean="searchFilterEditorialBoardPeriodicity" />
+                <ref bean="searchFilterReviewersPeriodicityOfPublication" />
+                <ref bean="searchFilterPeriodicity" />
+                <ref bean="searchFilterEmbargedTime" />
+                <ref bean="searchFilterAuthorPostPrint" />
+                <ref bean="searchFilterJournalPostPrint" />
+                <ref bean="searchFilterPrePrint" />
+                <ref bean="searchFilterPrePrintSubmission" />
+                <ref bean="searchFilterPlagiarismDetection" />
+                <ref bean="searchFilterThermometer" />
+                <ref bean="searchFilterJournalsPortalUri" />
+                <ref bean="searchFilterTime" />
+                <ref bean="searchFilterInteroperabilityProtocol" />
+                <ref bean="searchFilterReviewerspublication" />
+                <ref bean="searchdescriptionsocialnetworks" />
+                <ref bean="searchFilterRegion" />
+                <ref bean="searchFilterPublishinGresponsable" />
+                <ref bean="searchFilterOasisbr" />
+                <ref bean="searchFilterOpenAccessSeal" />
+                <ref bean="searchFilterSealColor" />
+                <ref bean="searchFilterCienciaAberta" />
+                <ref bean="searchFilterDiamante" />
+                <ref bean="searchFilterInformationServices" />
+                <ref bean="searchFilterSoftware" />
+                <ref bean="searchFilterUpdateStatus" />
+                <ref bean="searchFilterApc" />
+                <ref bean="searchFilterSubmissionFees" />
+                <ref bean="searchFilterPublicationFees" />
+                <ref bean="searchFilterPhone" />
+                <ref bean="searchFilterTimePublication" />
+                <ref bean="searchFilterAccess" />
+                <ref bean="searchFilterTitleAbbreviated" />
+                <ref bean="searchFilterTitlePrevious" />
+                <ref bean="searchFilterTitleLater" />
+                <ref bean="searchFilterTitleProper" />
+                <ref bean="searchFilterUrl" />
             </list>
         </property>
         <!--The search filters which can be used on the discovery search page -->
@@ -1215,6 +1783,77 @@
                 <ref bean="searchFilterSubmitter" />
                 <ref bean="searchFilterSituation" />
                 <ref bean="searchFilterCnpq" />
+                <ref bean="searchFilterEndyear" />
+                <ref bean="searchFilterStartyear" />
+                <ref bean="searchFilterQualisArea" />
+                <ref bean="searchFilterQualisArea2021_2024" />
+                <ref bean="searchFilterAbecBrasil" />
+                <ref bean="searchFilterCity" />
+                <ref bean="searchFilterQualisClassification" />
+                <ref bean="searchFilterQualisClassification2021_2024" />
+                <ref bean="searchFilterCodeofethics" />
+                <ref bean="searchFilterCep" />
+                <ref bean="searchFilterUpdate" />
+                <ref bean="searchFilterAbstract" />
+                <ref bean="searchFilterPeerreViewDocuments" />
+                <ref bean="searchFilterEmail" />
+                <ref bean="searchFilterState" />
+                <ref bean="searchFilterDigitalPreservation" />
+                <ref bean="searchFilterResearchData" />
+                <ref bean="searchFilterPeerreviewExternality" />
+                <ref bean="searchFilterReviewerStypeOfPublication" />
+                <ref bean="searchFilterIdentifierEditor" />
+                <ref bean="searchFilterPersistentIdentifier" />
+                <ref bean="searchFilterLanguage" />
+                <ref bean="searchFilterPublisherName" />
+                <ref bean="searchFilterIssn" />
+                <ref bean="searchFilterIssnl" />
+                <ref bean="searchFilterCreativecommons" />
+                <ref bean="searchFilterEditorialBoardMonthofPublication" />
+                <ref bean="searchFilterMonthofpublication" />
+                <ref bean="searchFilterPeerreview" />
+                <ref bean="searchFilterModalityOfPublication" />
+                <ref bean="searchpublisherlegalnature" />
+                <ref bean="searchFilterSubordinate" />
+                <ref bean="searchFilterTitleOther" />
+                <ref bean="searchFilterReferenceGuidelines" />
+                <ref bean="searchFilterKeywords" />
+                <ref bean="searchFilterEditorialBoardPeriodicity" />
+                <ref bean="searchFilterReviewersPeriodicityOfPublication" />
+                <ref bean="searchFilterPeriodicity" />
+                <ref bean="searchFilterEmbargedTime" />
+                <ref bean="searchFilterAuthorPostPrint" />
+                <ref bean="searchFilterJournalPostPrint" />
+                <ref bean="searchFilterPrePrint" />
+                <ref bean="searchFilterPrePrintSubmission" />
+                <ref bean="searchFilterPlagiarismDetection" />
+                <ref bean="searchFilterThermometer" />
+                <ref bean="searchFilterJournalsPortalUri" />
+                <ref bean="searchFilterTime" />
+                <ref bean="searchFilterInteroperabilityProtocol" />
+                <ref bean="searchFilterReviewerspublication" />
+                <ref bean="searchdescriptionsocialnetworks" />
+                <ref bean="searchFilterRegion" />
+                <ref bean="searchFilterPublishinGresponsable" />
+                <ref bean="searchFilterOasisbr" />
+                <ref bean="searchFilterOpenAccessSeal" />
+                <ref bean="searchFilterSealColor" />
+                <ref bean="searchFilterCienciaAberta" />
+                <ref bean="searchFilterDiamante" />
+                <ref bean="searchFilterInformationServices" />
+                <ref bean="searchFilterSoftware" />
+                <ref bean="searchFilterUpdateStatus" />
+                <ref bean="searchFilterApc" />
+                <ref bean="searchFilterSubmissionFees" />
+                <ref bean="searchFilterPublicationFees" />
+                <ref bean="searchFilterPhone" />
+                <ref bean="searchFilterTimePublication" />
+                <ref bean="searchFilterAccess" />
+                <ref bean="searchFilterTitleAbbreviated" />
+                <ref bean="searchFilterTitlePrevious" />
+                <ref bean="searchFilterTitleLater" />
+                <ref bean="searchFilterTitleProper" />
+                <ref bean="searchFilterUrl" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -1282,6 +1921,77 @@
                 <ref bean="searchFilterSupervision" />
                 <ref bean="searchFilterSituation" />
                 <ref bean="searchFilterCnpq" />
+                <ref bean="searchFilterEndyear" />
+                <ref bean="searchFilterStartyear" />
+                <ref bean="searchFilterQualisArea" />
+                <ref bean="searchFilterQualisArea2021_2024" />
+                <ref bean="searchFilterAbecBrasil" />
+                <ref bean="searchFilterCity" />
+                <ref bean="searchFilterQualisClassification" />
+                <ref bean="searchFilterQualisClassification2021_2024" />
+                <ref bean="searchFilterCodeofethics" />
+                <ref bean="searchFilterCep" />
+                <ref bean="searchFilterUpdate" />
+                <ref bean="searchFilterAbstract" />
+                <ref bean="searchFilterPeerreViewDocuments" />
+                <ref bean="searchFilterEmail" />
+                <ref bean="searchFilterState" />
+                <ref bean="searchFilterDigitalPreservation" />
+                <ref bean="searchFilterResearchData" />
+                <ref bean="searchFilterPeerreviewExternality" />
+                <ref bean="searchFilterReviewerStypeOfPublication" />
+                <ref bean="searchFilterIdentifierEditor" />
+                <ref bean="searchFilterPersistentIdentifier" />
+                <ref bean="searchFilterLanguage" />
+                <ref bean="searchFilterPublisherName" />
+                <ref bean="searchFilterIssn" />
+                <ref bean="searchFilterIssnl" />
+                <ref bean="searchFilterCreativecommons" />
+                <ref bean="searchFilterEditorialBoardMonthofPublication" />
+                <ref bean="searchFilterMonthofpublication" />
+                <ref bean="searchFilterPeerreview" />
+                <ref bean="searchFilterModalityOfPublication" />
+                <ref bean="searchpublisherlegalnature" />
+                <ref bean="searchFilterSubordinate" />
+                <ref bean="searchFilterTitleOther" />
+                <ref bean="searchFilterReferenceGuidelines" />
+                <ref bean="searchFilterKeywords" />
+                <ref bean="searchFilterEditorialBoardPeriodicity" />
+                <ref bean="searchFilterReviewersPeriodicityOfPublication" />
+                <ref bean="searchFilterPeriodicity" />
+                <ref bean="searchFilterEmbargedTime" />
+                <ref bean="searchFilterAuthorPostPrint" />
+                <ref bean="searchFilterJournalPostPrint" />
+                <ref bean="searchFilterPrePrint" />
+                <ref bean="searchFilterPrePrintSubmission" />
+                <ref bean="searchFilterPlagiarismDetection" />
+                <ref bean="searchFilterThermometer" />
+                <ref bean="searchFilterJournalsPortalUri" />
+                <ref bean="searchFilterTime" />
+                <ref bean="searchFilterInteroperabilityProtocol" />
+                <ref bean="searchFilterReviewerspublication" />
+                <ref bean="searchdescriptionsocialnetworks" />
+                <ref bean="searchFilterRegion" />
+                <ref bean="searchFilterPublishinGresponsable" />
+                <ref bean="searchFilterOasisbr" />
+                <ref bean="searchFilterOpenAccessSeal" />
+                <ref bean="searchFilterSealColor" />
+                <ref bean="searchFilterCienciaAberta" />
+                <ref bean="searchFilterDiamante" />
+                <ref bean="searchFilterInformationServices" />
+                <ref bean="searchFilterSoftware" />
+                <ref bean="searchFilterUpdateStatus" />
+                <ref bean="searchFilterApc" />
+                <ref bean="searchFilterSubmissionFees" />
+                <ref bean="searchFilterPublicationFees" />
+                <ref bean="searchFilterPhone" />
+                <ref bean="searchFilterTimePublication" />
+                <ref bean="searchFilterAccess" />
+                <ref bean="searchFilterTitleAbbreviated" />
+                <ref bean="searchFilterTitlePrevious" />
+                <ref bean="searchFilterTitleLater" />
+                <ref bean="searchFilterTitleProper" />
+                <ref bean="searchFilterUrl" />
             </list>
         </property>
         <!--The search filters which can be used on the discovery search page -->
@@ -1294,6 +2004,77 @@
                 <ref bean="searchFilterSupervision" />
                 <ref bean="searchFilterSituation" />
                 <ref bean="searchFilterCnpq" />
+                <ref bean="searchFilterEndyear" />
+                <ref bean="searchFilterStartyear" />
+                <ref bean="searchFilterQualisArea" />
+                <ref bean="searchFilterQualisArea2021_2024" />
+                <ref bean="searchFilterAbecBrasil" />
+                <ref bean="searchFilterCity" />
+                <ref bean="searchFilterQualisClassification" />
+                <ref bean="searchFilterQualisClassification2021_2024" />
+                <ref bean="searchFilterCodeofethics" />
+                <ref bean="searchFilterCep" />
+                <ref bean="searchFilterUpdate" />
+                <ref bean="searchFilterAbstract" />
+                <ref bean="searchFilterPeerreViewDocuments" />
+                <ref bean="searchFilterEmail" />
+                <ref bean="searchFilterState" />
+                <ref bean="searchFilterDigitalPreservation" />
+                <ref bean="searchFilterResearchData" />
+                <ref bean="searchFilterPeerreviewExternality" />
+                <ref bean="searchFilterReviewerStypeOfPublication" />
+                <ref bean="searchFilterIdentifierEditor" />
+                <ref bean="searchFilterPersistentIdentifier" />
+                <ref bean="searchFilterLanguage" />
+                <ref bean="searchFilterPublisherName" />
+                <ref bean="searchFilterIssn" />
+                <ref bean="searchFilterIssnl" />
+                <ref bean="searchFilterCreativecommons" />
+                <ref bean="searchFilterEditorialBoardMonthofPublication" />
+                <ref bean="searchFilterMonthofpublication" />
+                <ref bean="searchFilterPeerreview" />
+                <ref bean="searchFilterModalityOfPublication" />
+                <ref bean="searchpublisherlegalnature" />
+                <ref bean="searchFilterSubordinate" />
+                <ref bean="searchFilterTitleOther" />
+                <ref bean="searchFilterReferenceGuidelines" />
+                <ref bean="searchFilterKeywords" />
+                <ref bean="searchFilterEditorialBoardPeriodicity" />
+                <ref bean="searchFilterReviewersPeriodicityOfPublication" />
+                <ref bean="searchFilterPeriodicity" />
+                <ref bean="searchFilterEmbargedTime" />
+                <ref bean="searchFilterAuthorPostPrint" />
+                <ref bean="searchFilterJournalPostPrint" />
+                <ref bean="searchFilterPrePrint" />
+                <ref bean="searchFilterPrePrintSubmission" />
+                <ref bean="searchFilterPlagiarismDetection" />
+                <ref bean="searchFilterThermometer" />
+                <ref bean="searchFilterJournalsPortalUri" />
+                <ref bean="searchFilterTime" />
+                <ref bean="searchFilterInteroperabilityProtocol" />
+                <ref bean="searchFilterReviewerspublication" />
+                <ref bean="searchdescriptionsocialnetworks" />
+                <ref bean="searchFilterRegion" />
+                <ref bean="searchFilterPublishinGresponsable" />
+                <ref bean="searchFilterOasisbr" />
+                <ref bean="searchFilterOpenAccessSeal" />
+                <ref bean="searchFilterSealColor" />
+                <ref bean="searchFilterCienciaAberta" />
+                <ref bean="searchFilterDiamante" />
+                <ref bean="searchFilterInformationServices" />
+                <ref bean="searchFilterSoftware" />
+                <ref bean="searchFilterUpdateStatus" />
+                <ref bean="searchFilterApc" />
+                <ref bean="searchFilterSubmissionFees" />
+                <ref bean="searchFilterPublicationFees" />
+                <ref bean="searchFilterPhone" />
+                <ref bean="searchFilterTimePublication" />
+                <ref bean="searchFilterAccess" />
+                <ref bean="searchFilterTitleAbbreviated" />
+                <ref bean="searchFilterTitlePrevious" />
+                <ref bean="searchFilterTitleLater" />
+                <ref bean="searchFilterTitleProper" />
+                <ref bean="searchFilterUrl" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -3078,15 +3859,16 @@
         <property name="pageSize" value="10"/>
     </bean>
 
-    <bean id="searchFilterTitle" class="org.dspace.discovery.configuration.DiscoverySearchFilter">
+    <bean id="searchFilterTitle" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
         <property name="indexFieldName" value="title"/>
         <property name="metadataFields">
             <list>
                 <value>dc.title</value>
             </list>
         </property>
-        <property name="isOpenByDefault" value="true"/>
-        <property name="pageSize" value="10"/>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
     </bean>
 
     <bean id="searchFilterIsAuthorOfPublicationRelation" class="org.dspace.discovery.configuration.DiscoverySearchFilter">
@@ -3166,15 +3948,11 @@
         <property name="metadataFields">
             <list>
                 <value>dc.contributor.editor</value>
-                <value>dc.creator</value>
             </list>
         </property>
-        <property name="facetLimit" value="5"/>
+        <property name="facetLimit" value="10"/>
         <property name="sortOrderSidebar" value="COUNT"/>
         <property name="sortOrderFilterPage" value="COUNT"/>
-        <property name="isOpenByDefault" value="true"/>
-        <property name="pageSize" value="10"/>
-        <property name="exposeMinAndMaxValue" value="true"/>
     </bean>
 
     <bean id="searchFilterOrgUnit" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
@@ -3348,7 +4126,7 @@
     </bean>
 
     <bean id="searchFilterCnpq" class="org.dspace.discovery.configuration.HierarchicalSidebarFacetConfiguration">
-        <property name="indexFieldName" value="cnpq" />
+        <property name="indexFieldName" value="cnpq"/>
         <property name="metadataFields">
             <list>
                 <value>dc.subject.cnpq</value>
@@ -3358,6 +4136,858 @@
         <property name="sortOrderSidebar" value="COUNT"/>
         <property name="sortOrderFilterPage" value="COUNT"/>
         <property name="splitter" value="::"/>
+    </bean>
+
+    <bean id="searchFilterEndyear" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="endyear"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.date.endyear</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterStartyear" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="startyear"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.date.startyear</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterQualisArea" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="qualisarea2017_2020"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.qualisarea2017-2020</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterQualisArea2021_2024" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="qualisarea2021_2024"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.qualisarea2021-2024</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterAbecBrasil" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="abecbrasil"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.identifier.abecbrasil</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterCity" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="city"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.city</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterQualisClassification" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="qualisclassification2017_2020"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.qualisclassification2017-2020</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterQualisClassification2021_2024" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="qualisclassification2021_2024"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.qualisclassification2021-2024</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterCodeofethics" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="codeofethics"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.codeofethics</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterCep" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="cep"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.cep</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterUpdate" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="update"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.date.update</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterAbstract" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="abstract"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.abstract</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterPeerreViewDocuments" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="peerreviewdocuments"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.peerreviewdocuments</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterEmail" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="email"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.identifier.email</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterState" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="state"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.state</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterDigitalPreservation" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="digitalpreservation"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.digitalpreservation</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterResearchData" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="researchdata"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.rights.researchdata</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterPeerreviewExternality" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="peerreviewexternality"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.peerreviewexternality</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterReviewerStypeOfPublication" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="reviewerstypeofpublication"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.reviewerstypeofpublication</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterIdentifierEditor" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="identifiereditor"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.identifier.editor</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterPersistentIdentifier" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="persistentidentifier"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.identifier.persistentidentifier</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterLanguage" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="language"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.language</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterPublisherName" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="name"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.publisher.name</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterIssn" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="issn"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.identifier.issn</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterIssnl" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="issnl"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.identifier.issnl</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterCreativecommons" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="commons"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.rights.creativecommons</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterEditorialBoardMonthofPublication" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="editorialboardmonthofpublication"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.date.editorialboardmonthofpublication</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterMonthofpublication" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="monthofpublication"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.date.monthofpublication</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterPeerreview" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="peerreview"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.peerreview</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterModalityOfPublication" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="modalityofpublication"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.modalityofpublication</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchpublisherlegalnature" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="publisherlegalnature"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.publisher.legalnature</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterSubordinate" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="subordinate"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.publisher.subordinate</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterTitleOther" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="other"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.title.other</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterReferenceGuidelines" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="referenceguidelines"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.referenceguidelines</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterKeywords" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="keywords"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.subject.keywords</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterEditorialBoardPeriodicity" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="editorialboardperiodicity"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.editorialboardperiodicity</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterReviewersPeriodicityOfPublication" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="reviewersperiodicityofpublication"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.reviewersperiodicityofpublication</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterPeriodicity" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="periodicity"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.periodicity</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterEmbargedTime" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="embargedtime"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.rights.embargedtime</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterAuthorPostPrint" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="authorpostprint"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.rights.authorpostprint</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterJournalPostPrint" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="journalpostprint"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.rights.journalpostprint</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterPrePrint" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="preprint"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.rights.preprint</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterPrePrintSubmission" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="preprintsubmission"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.rights.preprintsubmission</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterPlagiarismDetection" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="plagiarismdetection"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.plagiarismdetection</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterThermometer" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="thermometer"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.identifier.thermometer</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterJournalsPortalUri" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="journalsportaluri"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.identifier.journalsportaluri</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterTime" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="time"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.rights.time</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterInteroperabilityProtocol" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="interoperabilityprotocol"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.identifier.interoperabilityprotocol</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterReviewerspublication" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="reviewerspublication"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.reviewerspublication</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchdescriptionsocialnetworks" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="descriptionsocialnetworks"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.socialnetworks</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterRegion" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="region"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.region</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterPublishinGresponsable" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="publishingresponsable"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.contributor.publishingresponsable</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterOasisbr" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="oasisbr"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.relation.oasisbr</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterOpenAccessSeal" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="openaccessseal"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.identifier.openaccessseal</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterSealColor" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="sealcolor"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.rights.sealcolor</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterCienciaAberta" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="openscienceseal"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.identifier.openscienceseal</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterDiamante" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="diamondjournalseal"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.identifier.diamondjournalseal</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterInformationServices" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="informationservices"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.relation.informationservices</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterSoftware" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="software"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.software</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterUpdateStatus" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="updatestatus"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.date.updatestatus</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterApc" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="apc"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.apc</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterSubmissionFees" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="submissionfees"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.submissionfees</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterPublicationFees" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="publicationfees"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.publicationfees</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterPhone" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="phone"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.phone</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterTimePublication" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="timepublication"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.timepublication</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterAccess" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="access"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.rights.access</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterTitleAbbreviated" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="abbreviated"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.title.abbreviated</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterTitlePrevious" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="previous"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.title.previous</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterTitleLater" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="later"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.title.later</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterTitleProper" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="proper"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.title.proper</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
+    </bean>
+
+    <bean id="searchFilterUrl" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="url"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.identifier.url</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrderSidebar" value="COUNT"/>
+        <property name="sortOrderFilterPage" value="COUNT"/>
     </bean>
 
     <bean id="searchFilterAccessStatus" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
